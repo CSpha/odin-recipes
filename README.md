@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a recipe list for typical meals we eat at home.
